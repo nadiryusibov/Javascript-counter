@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.container {
+  margin-top: 50px; }
+  .container h1 {
+    color: red;
+    font-size: 40px;
+    line-height: 30px; }
+  .container span {
+    display: block;
+    margin: 30px 0;
+    font-size: 30px;
+    line-height: 20px; }
+  .container .btn {
+    padding: 8px 10px;
+    border: 1px solid black;
+    background-color: #0984e3;
+    color: white;
+    font-size: 20px;
+    margin-right: 10px; }
